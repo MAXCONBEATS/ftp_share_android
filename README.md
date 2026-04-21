@@ -1,7 +1,7 @@
 # FTP Share 📁➡️💻
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](https://github.com/yourname/ftp_share_android)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](https://github.com/MAXCONBEATS/ftp_share_android)
 
 Простое и удобное приложение для передачи файлов с телефона на компьютер (и обратно) по Wi-Fi с использованием протокола FTP. Написано на **Flutter**, работает на **Android**.
 
