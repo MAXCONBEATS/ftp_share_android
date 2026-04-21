@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](https://github.com/yourname/ftp_share_android)
 
-Простое и удобное приложение для передачи файлов с телефона на компьютер (и обратно) по Wi-Fi с использованием протокола FTP. Написано на **Flutter**, работает на **Android** и **iOS**.
+Простое и удобное приложение для передачи файлов с телефона на компьютер (и обратно) по Wi-Fi с использованием протокола FTP. Написано на **Flutter**, работает на **Android**.
 
 ## 🚀 Как это работает
 
@@ -27,7 +27,7 @@
 
 | Главный экран | Выбор файлов |
 |---------------|--------------|
-| ![Главный экран](screenshots/main.png) | ![Выбор файлов](screenshots/select.png) |
+| ![Главный экран](screenshots/main_screen.jpg) | ![Выбор файлов](screenshots/file_selection_screen.jpg) |
 
 ## 📦 Используемые пакеты
 
@@ -43,7 +43,7 @@
 1. Убедитесь, что у вас установлен Flutter SDK.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/ftp_share_android.git
+   git clone https://github.com/MAXCONBEATS/ftp_share_android.git
    cd ftp_share_android
 3. Получите зависимости:
    ```bash
